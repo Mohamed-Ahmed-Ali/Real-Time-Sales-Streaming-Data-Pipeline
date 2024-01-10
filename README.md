@@ -11,7 +11,6 @@ wsl --install
 This project is a comprehensive sales streaming data pipeline designed to handle real-time data processing, storage, and visualization. It utilizes Docker containers for easy deployment and scalability, Apache Airflow for data ingestion, Kafka as a message broker, Spark for stream processing, and Cassandra and ClickHouse as serving databases. The pipeline culminates in a Superset-powered dashboard for insightful data visualization.
 
 ## Overview
-- 
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Deploy the Solution](#deploy-the-solution)
